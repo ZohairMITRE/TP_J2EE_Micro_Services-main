@@ -54,6 +54,9 @@ Travail à faire :
 
 6. Créer le service de facturation Billing-Service en utilisant Open Feign
 
+![Billing_Service](https://user-images.githubusercontent.com/103313351/217521924-eabf07dd-7e9e-45aa-ba5c-71c56fcc0f40.PNG)
+
+
 7. Créer un client Web Angular (Clients, Produits, Factures)
 
 8. Déployer le serveur keycloak :
