@@ -59,13 +59,67 @@ Travail à faire :
 
 7. Créer un client Web Angular (Clients, Produits, Factures)
 
+
+
 8. Déployer le serveur keycloak :
+     - Telecharger et demarrer Keycloak
+     
+     
+     ![1  Télécharger Keycloak](https://user-images.githubusercontent.com/103313351/219461512-b755fbbd-c520-4d15-b575-9dfce60cc6d7.PNG)
+
+
+![2  Démarrer Keycloak](https://user-images.githubusercontent.com/103313351/219461544-5f090573-95e4-4ba1-90e4-132263af70de.PNG)
+      
+      -Créer un admin
+      
+      ![3  creer cpt admin](https://user-images.githubusercontent.com/103313351/219461645-0f36a434-3943-4344-85ed-5f27ca8bb0fc.PNG)
+
+      ![3  Créer un compte Admin](https://user-images.githubusercontent.com/103313351/219461742-370f8c56-b0ba-4d61-8ef7-ea714550bd20.PNG)
+
+
      - Créer un Realm
+     
+     ![4  Créer une Realm](https://user-images.githubusercontent.com/103313351/219461721-70f3612a-4841-48b6-9225-36e6cea4c11b.PNG)
+
+     
      - Créer un client à sécuriser
+     
+     ![5  Créer un client à sécuriser](https://user-images.githubusercontent.com/103313351/219461797-6ec21010-21ce-4db8-bbf9-4692957257f2.PNG)
+
+     
      - Créer des utilisateurs
+     
+     ![6  Créer des utilisateurs](https://user-images.githubusercontent.com/103313351/219461823-a38ed1ca-eec4-4906-ac03-d1bfec73da34.PNG)
+
+     
      - Créer des rôles
+     
+     ![7  Créer des rôles](https://user-images.githubusercontent.com/103313351/219461864-7b1447de-46cb-4288-af6c-456ea0d401f2.PNG)
+
+     
      - Affecter les rôles aux utilisateurs
+     
+     ![8  Affecter les rôles aux utilisateurs](https://user-images.githubusercontent.com/103313351/219461900-df90a11e-6a21-4976-8728-225e7c2886c9.PNG)
+
+     
      - Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh Token 
+     
+     I/
+     
+     ![POSTMAN Tester auth Client ID et Client Secret](https://user-images.githubusercontent.com/103313351/219462151-a8173f31-4f7e-4711-9ffd-d9395e532ee1.PNG)
+
+
+      II/
+      
+      ![POSTMAN Tester auth Refresh Token](https://user-images.githubusercontent.com/103313351/219462214-b3a5bc41-b133-45d9-bf67-d799159f03db.PNG)
+      
+      III/
+      
+      ![POSTMAN  Tester auth avec mdp](https://user-images.githubusercontent.com/103313351/219462318-a763c1d7-058f-4e3f-ae3c-c7dbd880f404.PNG)
+     
 9. Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
 
-10. Ajouter des Fonctionnalités supplémentaires de votre choix
+![POSTMAN Analyser les contenus des deux JWT Access Token et Refresh Token](https://user-images.githubusercontent.com/103313351/219462425-a5260501-fb74-4567-a8a1-0489bed9ca87.PNG)
+
+
+![POSTMAN Changer les paramètres des Tokens Access Token et Refresh Token](https://user-images.githubusercontent.com/103313351/219462447-e2d3a55d-cf24-49cc-8059-44d5134b4fa1.PNG)
