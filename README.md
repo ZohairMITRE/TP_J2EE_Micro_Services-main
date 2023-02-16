@@ -64,11 +64,10 @@ Travail à faire :
 8. Déployer le serveur keycloak :
      - Telecharger et demarrer Keycloak
      
-     
-     ![1  Télécharger Keycloak](https://user-images.githubusercontent.com/103313351/219461512-b755fbbd-c520-4d15-b575-9dfce60cc6d7.PNG)
+     ![Télécharger Keycloak](https://user-images.githubusercontent.com/103313351/219463080-8bf2f479-9f9e-4901-aa70-68b9a310f911.PNG)
 
 
-![2  Démarrer Keycloak](https://user-images.githubusercontent.com/103313351/219461544-5f090573-95e4-4ba1-90e4-132263af70de.PNG)
+      ![2  Démarrer Keycloak](https://user-images.githubusercontent.com/103313351/219461544-5f090573-95e4-4ba1-90e4-132263af70de.PNG)
       
       -Créer un admin
       
